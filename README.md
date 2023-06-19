@@ -1,1 +1,2 @@
-# M+ NFT
+# Repository for M+ NFT research
+
